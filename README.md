@@ -1,5 +1,5 @@
 # Microsoft Movie Studio Recommendation
-
+![alt text](https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/f280a1c0ee5afeaa3b647ca0be289f0cd6cb5952/pictures/Microsoft.png)
 After the first phase of Flatiron Data Science program, this is the first project that will conclude Phase 1.
 
 
