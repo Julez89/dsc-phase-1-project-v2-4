@@ -18,14 +18,18 @@ I used data from IMDB, Box Office Mojo, The Numbers, Rotten Tomatoes and TMD. IM
 
 ### Key Insights
 
-* Microsoft should produce movies from the following three genres: Adventure, Animation or Sci-Fi. 
-![alt text] (https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/genre.png)
+* The genres of Adventure, Animation & Sci-Fi have the highest earnings.  
+![Genres](https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/genre.png)
+* There are some directors that have a specifically good Return on Investment. Some require high budgets to create high earnings.
+![Directors](https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/Director.png)
 
+* Runtimes vary depending on the genre. For the three favourised genres Adventure, Sci-Fi and Animation, especially Animation sticks out with short runtimes.
+![Runtime](https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/runtime.png)
+
+### Recommendation for Microsoft
+* Microsoft should produce movies from the following three genres: Adventure, Animation or Sci-Fi. Documentaries should be avoided even though they get good ratings.
 * Microsoft should higher one of the best directors with a great return on investment. For Animation this could be Kyle Balda.
-![Directors] (https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/Director.png)
-
 * Microsoft should vary in terms of the runtime minutes depending on which genre they are producing. An animated movie should have a length of around 100 minutes.
-![Runtime] (https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/runtime.png)
 
 ### Files in this Repository
 My technical code is stored in this [jupyter notebook](https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/Microsoft.ipynb)
