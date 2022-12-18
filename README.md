@@ -19,7 +19,7 @@ I used data from IMDB, Box Office Mojo, The Numbers, Rotten Tomatoes and TMD. IM
 ### Key Insights
 
 * Microsoft should produce movies from the following three genres: Adventure, Animation or Sci-Fi. 
-![Genres] (https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/genre.png)
+![alt text] (https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/genre.png)
 
 * Microsoft should higher one of the best directors with a great return on investment. For Animation this could be Kyle Balda.
 ![Directors] (https://github.com/Julez89/dsc-phase-1-project-v2-4/blob/master/pictures/Director.png)
